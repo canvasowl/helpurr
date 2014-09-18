@@ -3,9 +3,34 @@
 
 
 /* MARGINS */
+.hp-no-margin{margin: 0}
+.hp-no-margin-l{margin-left: 0}
+.hp-no-margin-t{margin-top: 0}
+.hp-no-margin-r{margin-right: 0}
+.hp-no-margin-b{margin-bottom: 0}
 
 /* PADDINGS */
+.hp-no-padding{padding: 0}
+.hp-no-padding-l{padding-left: 0}
+.hp-no-padding-t{padding-top: 0}
+.hp-no-padding-r{padding-right: 0}
+.hp-no-padding-b{padding-bottom: 0}
 
 /* BORDERS */
+.hp-no-border{border: none;}
+.hp-no-border-l{border-left: none;}
+.hp-no-border-t{border-top: none;}
+.hp-no-border-r{border-right: none;}
+.hp-no-border-b{border-bottom: none;}
+
+.hp-no-borderRadius{border-radius: 0;}
+.hp-no-borderRadius-tr{border-top-right-radius: 0;}
+.hp-no-borderRadius-tl{border-top-left-radius: 0;}
+.hp-no-borderRadius-br{border-bottom-right-radius: 0;}
+.hp-no-borderRadius-bl{border-bottom-left-radius: 0;}
+
+/* LISTS */
+.hp-no-listStyle{list-style: none; margin-left: 0};
+.hp-inlineList {display: inline;}
 
 /* DISPLAY */
