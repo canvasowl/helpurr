@@ -1,7 +1,7 @@
-helpurr
+Helpurr.css
 =======
 
-A collection of helper CSS helper classes for your every day web development project!
+A collection of CSS helper classes for your every day web development project!
 
 
 
